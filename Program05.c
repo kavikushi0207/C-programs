@@ -1,6 +1,5 @@
 #include<stdio.h>
-//NAME : KUSHANI P.G.K.M.
-//REG NO. : EG/2018/3375
+
 void main()
 {
     //question number 01:
