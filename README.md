@@ -14,3 +14,12 @@ a program that estimates the value of the mathematical constant e
 
 #program04
 a program that computes the value of exponential of x. Here x is a floating-point number input by the user.
+
+#program05
+a program to calculate and print the sum of all multiples of 7 from 1 to 100.
+
+#program06
+a program that prints the sum, the sum of the squares, and the sum of the cubes of all natural numbers from 1 till any number entered by the user.
+
+#program07
+a program that converts temperatures from 30C to 50C to the Fahrenheit scale. The program should print a table displaying temperatures in the two scales side by side.
