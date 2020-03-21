@@ -23,3 +23,12 @@ a program that prints the sum, the sum of the squares, and the sum of the cubes 
 
 #program07
 a program that converts temperatures from 30C to 50C to the Fahrenheit scale. The program should print a table displaying temperatures in the two scales side by side.
+
+#program08
+C function which takes an integer number and test whether it is a prime number.
+
+#program09
+a program using functiong in part 1 to print the prime number between 1 and 1000.
+
+#program10
+a function that reads three nonzero integers and determines whether they are the sides of a right-angled triangle. The function should take three integer arguments and return 1 (true) if the arguments comprise a right-angled triangle, and 0 (false) otherwise.
